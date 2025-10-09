@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! I'm John
 
+I am a recent Cybersecurity graduate from Southern New Hampshire University. I am also a Navy Veteran.
 <!--
 **JohnRizkallah26/JohnRizkallah26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
