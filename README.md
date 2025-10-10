@@ -29,9 +29,8 @@ I'm a recent Cybersecurity graduate from Southern New Hampshire University and a
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn URL]
 - GitHub: [JohnRizkallah26](https://github.com/JohnRizkallah26)
-- Email: [Your professional email]
+- Email: (Johnrizkallah3@gmail.com)
 
 ---
 
