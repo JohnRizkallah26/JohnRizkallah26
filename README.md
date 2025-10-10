@@ -30,7 +30,7 @@ I'm a recent Cybersecurity graduate from Southern New Hampshire University and a
 ## 📫 Let's Connect
 
 - GitHub: [JohnRizkallah26](https://github.com/JohnRizkallah26)
-- Email: (Johnrizkallah3@gmail.com)
+- Email: Johnrizkallah3@gmail.com
 
 ---
 
