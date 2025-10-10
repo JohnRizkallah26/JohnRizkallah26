@@ -1,6 +1,17 @@
 ## Hi there! I'm John
 
-I am a recent Cybersecurity graduate from Southern New Hampshire University. I am also a Navy Veteran.
+I am a recent Cybersecurity graduate from Southern New Hampshire University. I am also a Navy Veteran of 8 years.
+
+
+
+My goals are to gain intermediate to advanced hands on skills with tools like Splunk, Snort, and Wireshark.
+
+
+
+
+| Skill                  | Associated Project |
+
+
 <!--
 **JohnRizkallah26/JohnRizkallah26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
