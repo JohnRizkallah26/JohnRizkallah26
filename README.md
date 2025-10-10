@@ -6,7 +6,7 @@ I'm a recent Cybersecurity graduate from Southern New Hampshire University and a
 
 - Transitioning into cybersecurity analyst roles with a focus on SOC operations, threat hunting, and risk management.
 - Building a portfolio of hands-on labs, annotated documentation, and modular SOPs for federal and veteran-friendly teams.
-- Exploring teaching certification pathways to bring cybersecurity fundamentals to high school classrooms.
+
 
 ## 🛠️ Skills & Projects
 
