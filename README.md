@@ -8,18 +8,7 @@ I'm a recent Cybersecurity graduate from Southern New Hampshire University and a
 - Building a portfolio of hands-on labs, annotated documentation, and modular SOPs for federal and veteran-friendly teams.
 
 
-## 🛠️ Skills & Projects
 
-| Skill Area                  | Associated Project / Lab                                                                 |
-|----------------------------|------------------------------------------------------------------------------------------|
-| SIEM & Log Analysis        | `Splunk Home Lab` – Configured syslog inputs, dashboards, and annotated threat scenarios |
-| Endpoint Detection & Response (EDR) | `SentinelOne vs CrowdStrike Trial` – Tactical comparison with annotated outcomes         |
-| Network Traffic Analysis   | `Wireshark Deep Dive` – Packet capture and analysis of simulated phishing attempts       |
-| Intrusion Detection Systems| `Snort Lab` – Rule creation, alert tuning, and documentation for teaching use            |
-| Cybersecurity Documentation| `GitHub Portfolio` – Modular README and SOP templates for mentoring and career growth    |
-| Executive Communication    | `Risk Briefs` – Strategic summaries for leadership teams on threat posture and response  |
-
-> More projects coming soon: SOC playbooks, MITRE ATT&CK mapping, and modular teaching kits.
 
 ## 🧾 Certifications
 
