@@ -30,4 +30,4 @@ I'm a recent Cybersecurity graduate from Southern New Hampshire University and a
 
 ---
 
-Feel free to swap in actual repo links or update project names as you build them out. Want help writing any of the project descriptions or SOPs next?
+
