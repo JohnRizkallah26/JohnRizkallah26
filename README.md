@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm John Rizkallah
 
-I'm a recent Cybersecurity graduate from Southern New Hampshire University and a proud Navy veteran with 8 years of leadership and technical troubleshooting experience. My mission is to translate tactical discipline into cybersecurity excellence—whether it's threat detection, incident response, or mentoring others through modular frameworks.
+I'm a recent Cybersecurity graduate from Southern New Hampshire University and a proud Navy veteran with 8 years of leadership and technical troubleshooting experience. My mission is to translate tactical discipline into cybersecurity excellence whether it's threat detection, incident response, or mentoring others through modular frameworks.
 
 ## 🎯 Career Focus
 
