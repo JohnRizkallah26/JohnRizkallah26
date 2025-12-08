@@ -4,9 +4,8 @@ I'm a recent Cybersecurity graduate from Southern New Hampshire University and a
 
 ## 🧾 Certifications
 
-| Certification | Description |
-|---------------|-------------|
-| **CompTIA Security+** | Validates baseline skills in network security, compliance, and operational security. |
+- **CompTIA Security+** – Validates baseline skills in network security, compliance, and operational security.  
+- **Google Cybersecurity Professional Certificate** – Demonstrates proficiency in SIEM, IDS, Linux, Python, and risk mitigation.
 
 ## 🌐 My Projects & Cybersecurity Hub
 
