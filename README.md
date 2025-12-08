@@ -14,9 +14,8 @@ Visit my portfolio site here: [johnrizkallah26.github.io](https://johnrizkallah2
 
 
 ## 📫 Let's Connect
-
-- GitHub: [JohnRizkallah26](https://github.com/JohnRizkallah26)
 - Email: Johnrizkallah3@gmail.com
+- Linkedin: https://www.linkedin.com/in/jogn-rizkallah-83665271
 
 ---
 
