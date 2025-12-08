@@ -12,10 +12,10 @@ I'm a recent Cybersecurity graduate from Southern New Hampshire University and a
 
 ## 🧾 Certifications
 
-| Certification | Badge |
+| Certification |
 |---------------|-------|
-| **CompTIA Security+**<br>Validates baseline skills in network security, compliance, and operational security. | [![Security+ Badge](https://www.credly.com/org/comptia/badge/comptia-security-ce-certification/image)](https://www.credly.com/org/comptia/badge/comptia-security-ce-certification) |
-| **Google Cybersecurity Professional Certificate**<br>Demonstrates proficiency in SIEM, IDS, Linux, Python, and risk mitigation. | [![Google Cybersecurity Badge](https://www.credly.com/org/coursera/badge/google-cybersecurity-professional-certificate-v2/image)](https://www.credly.com/org/coursera/badge/google-cybersecurity-professional-certificate-v2) |
+| **CompTIA Security+**<br>Validates baseline skills in network security, compliance, and operational security. |  
+| **Google Cybersecurity Professional Certificate**<br>Demonstrates proficiency in SIEM, IDS, Linux, Python, and risk mitigation. | 
 
 ## 🧭 Values & Approach
 
