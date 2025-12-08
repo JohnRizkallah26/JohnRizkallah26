@@ -2,11 +2,6 @@
 
 I'm a recent Cybersecurity graduate from Southern New Hampshire University and a proud Navy veteran with 8 years of leadership and technical troubleshooting experience. My mission is to translate tactical discipline into cybersecurity excellence whether it's threat detection, incident response, or mentoring others through modular frameworks.
 
-## 🎯 Career Focus
-
-- Transitioning into cybersecurity analyst roles with a focus on SOC operations, threat hunting, and risk management.
-- Building a portfolio of hands-on labs, annotated documentation, and modular SOPs for federal and veteran-friendly teams.
-
 
 ## 🧾 Certifications
 
@@ -16,13 +11,11 @@ I'm a recent Cybersecurity graduate from Southern New Hampshire University and a
 | **Google Cybersecurity Professional Certificate** | Demonstrates proficiency in SIEM, IDS, Linux, Python, and risk mitigation. |
 
 
+## 🌐 My Projects & Cybersecurity Hub
 
+Looking for all my projects and cybersecurity resources in one place?  
+Visit my portfolio site here: [johnrizkallah26.github.io](https://johnrizkallah26.github.io)
 
-## 🧭 Values & Approach
-
-- 🧠 Tactical mindset: Modular, outcome-driven frameworks for speed and clarity.
-- 🎓 Lifelong learner: Always benchmarking best practices across cybersecurity, military, and mentoring domains.
-- 🛡️ Veteran pride: Translating Navy discipline into cybersecurity resilience and leadership.
 
 ## 📫 Let's Connect
 
