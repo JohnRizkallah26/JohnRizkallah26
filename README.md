@@ -5,7 +5,9 @@ Veteran with 9 years of leadership and technical experience in the U.S. Navy. Th
 ## Certifications
 
 - **CompTIA Security+** – Validates baseline skills in network security, compliance, and operational security.  
+- **Microsoft Azure Administrator Associate** - Showcases subject matter expertise in implementing, managing, and monitoring an organization’s Microsoft Azure environment, including virtual networks, storage, compute, identity, security, and governance.
 - **Google Cybersecurity Professional Certificate** – Demonstrates proficiency in SIEM, IDS, Linux, Python, and risk mitigation.
+  
 
 ## Contact info 
 - Email: Johnrizkallah3@gmail.com
